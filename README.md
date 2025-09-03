@@ -1,2 +1,8 @@
 # reserva-carro
-Um website de reserva de carro feito em Java, JSP, PostgreSQL e Tomcat
+Um projeto de locadora de Carros
+
+Feito usando:
+- Java
+- JSP
+- PostgreSQL
+- Tomcat
